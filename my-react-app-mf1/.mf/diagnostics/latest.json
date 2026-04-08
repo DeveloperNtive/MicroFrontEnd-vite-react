@@ -1,0 +1,10 @@
+{
+  "latestErrorEvent": {
+    "code": "TYPE-001",
+    "message": "Failed to generate type declaration. Execute the below cmd to reproduce and fix the error. #TYPE-001\nargs: {\"cmd\":\"npx tsc --project C:\\\\Users\\\\oskr9\\\\OneDrive\\\\Documents\\\\GitHub\\\\micro-frontend-module-federation\\\\my-react-app-mf1\\\\node_modules\\\\.federation\\\\tsconfig.51f63f7bec8dfe028fe09cf40d2559a2.json\"}\nView the docs to see how to solve: https://module-federation.io/guide/troubleshooting/type#type-001",
+    "args": {
+      "cmd": "npx tsc --project C:\\Users\\oskr9\\OneDrive\\Documents\\GitHub\\micro-frontend-module-federation\\my-react-app-mf1\\node_modules\\.federation\\tsconfig.51f63f7bec8dfe028fe09cf40d2559a2.json"
+    },
+    "timestamp": 1775635637748
+  }
+}
